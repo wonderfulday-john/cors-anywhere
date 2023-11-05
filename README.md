@@ -12,6 +12,8 @@ cookies. Requesting [user credentials](http://www.w3.org/TR/cors/#user-credentia
 The app can be configured to require a header for proxying a request, for example to avoid
 a direct visit from the browser.
 
+Testing
+
 ## Example
 
 ```javascript
